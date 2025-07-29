@@ -28,5 +28,6 @@
 
 ### 📫 Bana Ulaş
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/xilkerkuru)
-[![E-posta](mailto:ilkkerkuru@gmail.com))
+[![E-posta](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:ilkkerkuru@gmail.com)  
+📧 [Bana e-posta gönder](mailto:ilkkerkuru@gmail.com)
 
